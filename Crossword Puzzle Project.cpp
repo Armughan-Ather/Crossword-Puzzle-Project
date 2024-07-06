@@ -6,7 +6,7 @@
 #include <cstdlib>
 #include <algorithm>
 #include <chrono>
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 #include <iomanip> 
 #include<windows.h>
 #define FOREGROUND_BLACK       0x00
